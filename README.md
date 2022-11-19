@@ -1,2 +1,2 @@
-# C-Games
+# C#-Games
 Games Made With C#
